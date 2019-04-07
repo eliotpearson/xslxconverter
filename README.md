@@ -22,4 +22,6 @@ It's also secure. There are online service that offer a similar service. You don
 
 From the command line:
 
+```pip3 install -r requirements.txt```
+
 ```python3 main.py```
